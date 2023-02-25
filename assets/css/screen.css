@@ -900,9 +900,9 @@ iframe {
     transition: opacity .25s;
 }
 
-.card-hover img {
-    transition: all 0.2s linear;
+.card-hover {
+    transition: all 0.3s linear;
 }
 .card-hover:hover {
-    transform: scale(1.4);
+    transform: scale(1.005);
 }
